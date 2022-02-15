@@ -1,0 +1,18 @@
+.text-center {
+  text-align: center;
+}
+main a {
+  text-decoration: none;
+}
+.mt-5 {
+  margin-top: 5rem;
+}
+main div {
+  background: orange;
+  padding: 10px;
+  color: white;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
